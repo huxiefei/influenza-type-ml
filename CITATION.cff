@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying manuscript."
+title: "Analysis code for: Machine Learning for Differentiating Influenza Types Using Routine Parameters Among Outpatients - A Multicenter Retrospective Study"
+authors:
+  - family-names: Hu
+    given-names: Xiefei
+  - family-names: Duan
+    given-names: Chunmei
+  - family-names: Mou
+    given-names: Jiangtao
+  - family-names: Liu
+    given-names: Jun
+  - family-names: Wan
+    given-names: Qiubin
+  - family-names: Fan
+    given-names: Cui
+  - family-names: Chen
+    given-names: Huajian
+  - family-names: Li
+    given-names: Xun
+  - family-names: Luo
+    given-names: Gen
+  - family-names: Fang
+    given-names: Hongshu
+  - family-names: Lu
+    given-names: Yongquan
+  - family-names: Liu
+    given-names: Jianda
+  - family-names: Zhi
+    given-names: Shenshen
+  - family-names: Li
+    given-names: Wei
+type: software
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-03"
+keywords:
+  - influenza
+  - machine learning
+  - complete blood count
+  - multicenter validation
+  - LightGBM
+  - SHAP

@@ -1,0 +1,29 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Clinical data must never be committed
+*.csv
+*.xlsx
+*.xls
+*.dta
+*.sav
+*.parquet
+data/
+results/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
+*.7z
